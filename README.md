@@ -2,7 +2,7 @@
 
 🚀 **Data Analyst | SQL | Python | Machine Learning | Power BI | Excel**  
 
-Welcome to my GitHub profile!  
+
 I’m passionate about turning **data into actionable insights** and building **data-driven solutions** using modern tools and technologies.  
 
 ---
