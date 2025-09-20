@@ -38,8 +38,8 @@ I’m passionate about turning **data into actionable insights** and building **
 
 ## 🔹 Contact Me  
 🌍 Location: India  
-💼 LinkedIn: [linkedin.com/in/ahmedali](https://linkedin.com/)  
-📧 Email: yourname@email.com  
+💼 LinkedIn: https://www.linkedin.com/in/ahmed-ali-69416a22a/
+📧 Email: ahmedaliahmedsec2022@gmail.com 
 
 
 
