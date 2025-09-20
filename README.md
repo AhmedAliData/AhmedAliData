@@ -41,6 +41,6 @@ I’m passionate about turning **data into actionable insights** and building **
 💼 LinkedIn: [linkedin.com/in/ahmedali](https://linkedin.com/)  
 📧 Email: yourname@email.com  
 
----
 
-⭐ **Fun Fact:** My GitHub is not just code, it’s my digital portfolio 🚀  
+
+
